@@ -9,7 +9,7 @@ I made a quick video to showcase a typical use case scenario.
 
 https://www.youtube.com/watch?v=tOumKK4u-Rc&feature=youtu.be&fbclid=IwAR1R_F_V7HRXx95ylZb0Fy9MPJTZFYEsCQla9NGJHYbNHxk4ZbfokpDAH1k
 
-## Disclamer
+## Note
 App is made in polish because it is made for my University and I study in polish language :)
 
 ## Code Path
