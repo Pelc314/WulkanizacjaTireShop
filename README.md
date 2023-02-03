@@ -1,6 +1,6 @@
 # WulkanizacjaApp:
 
-This app is a project which I made with my friend for university. 
+This app is a project which I made with my friend for university. Unfortunately we didn't implement any sort of design pattern or even a proper class naming scheme but that wasn't the point of the project at the time.
 It is an online listing app for car tires. When you want new tires you just open your app and search for the best one for yourself. Just like when you open amazon to buy new things but this one is focused on just one type of product. This is an android application. The app was made using Java and XML.
 
 ## Example:
