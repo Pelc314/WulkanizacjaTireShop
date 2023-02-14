@@ -12,6 +12,4 @@ https://www.youtube.com/watch?v=tOumKK4u-Rc&feature=youtu.be&fbclid=IwAR1R_F_V7H
 ## Note:
 App is made in polish because it is made for my University and I study in polish language :)
 
-## Code Path:
 
-WulkanizacjaTireShop/app/src/main/java/com/example/projekt_zaliczenie/
